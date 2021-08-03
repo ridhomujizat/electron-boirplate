@@ -5,11 +5,11 @@ boirplate for electron-react build with webpack & electron-forge
 ### How to use
  1. Clone this repo 
     ```
-    git clone https://github.com/ridhomujizat/cra-electron.git
+    git clone https://github.com/ridhomujizat/electron-boirplate.git my-app-name
     ```
  2. Go to directory
     ```
-    cd cra-electron
+    cd my-app-name
     ```
  4. Type and run
     ```
@@ -17,5 +17,5 @@ boirplate for electron-react build with webpack & electron-forge
     ```
  6. And then
     ```
-    npm run dev
+    npm run start
     ```
